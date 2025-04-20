@@ -73,8 +73,10 @@ import razorpay_logo from "./razorpay_logo.png";
 import stripe_logo from "./stripe_logo.png";
 import cross_icon from "./cross_icon.png";
 import Logo from "./Logo.jpeg";
+import vicky from "./vicky.jpeg";
 
 export const assets = {
+  vicky,
   logo,
   Logo,
   hero_img,
